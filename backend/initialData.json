@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "name": "Alex Thompson",
+    "email": "a.tompson@company.com",
+    "location": "San Francisco, US",
+    "flag": "🇺🇸",
+    "status": "Inactive",
+    "balance": 1750,
+    "department": "Engineering"
+  },
+  {
+    "id": "2",
+    "name": "Sarah Chen",
+    "email": "sarah.c@company.com",
+    "location": "Singapore",
+    "flag": "🇸🇬",
+    "status": "Active",
+    "balance": 600,
+    "department": "Product"
+  },
+  {
+    "id": "3",
+    "name": "James Wilson",
+    "email": "j.wilson@company.com",
+    "location": "London, UK",
+    "flag": "🇬🇧",
+    "status": "Inactive",
+    "balance": 650,
+    "department": "Marketing"
+  },
+  {
+    "id": "4",
+    "name": "Maria Garcia",
+    "email": "m.garcia@company.com",
+    "location": "Madrid, Spain",
+    "flag": "🇪🇸",
+    "status": "Active",
+    "balance": 0,
+    "department": "Design"
+  },
+  {
+    "id": "5",
+    "name": "Lars Nielsen",
+    "email": "l.nielsen@company.com",
+    "location": "Stockholm, SE",
+    "flag": "🇸🇪",
+    "status": "Active",
+    "balance": 1000,
+    "department": "Engineering"
+  },
+  {
+    "id": "6",
+    "name": "Eva Kowalski",
+    "email": "e.kowalski@company.com",
+    "location": "Seoul, KR",
+    "flag": "🇰🇷",
+    "status": "Active",
+    "balance": 920,
+    "department": "Sales"
+  },
+  {
+    "id": "7",
+    "name": "Emma Laurent",
+    "email": "e.laurent@company.com",
+    "location": "Berlin, DE",
+    "flag": "🇩🇪",
+    "status": "Active",
+    "balance": 1200,
+    "department": "HR"
+  },
+  {
+    "id": "8",
+    "name": "Marco Rossi",
+    "email": "m.rossi@company.com",
+    "location": "Madrid, Spain",
+    "flag": "🇪🇸",
+    "status": "Active",
+    "balance": 2100,
+    "department": "Finance"
+  },
+  {
+    "id": "9",
+    "name": "Yuki Tanaka",
+    "email": "y.tanaka@company.com",
+    "location": "Warsaw, PL",
+    "flag": "🇵🇱",
+    "status": "Active",
+    "balance": 450,
+    "department": "IT"
+  },
+  {
+    "id": "10",
+    "name": "Mike Allison",
+    "email": "m.allison@company.com",
+    "location": "San Francisco, US",
+    "flag": "🇺🇸",
+    "status": "Inactive",
+    "balance": 1250,
+    "department": "Engineering"
+  },
+  {
+    "id": "11",
+    "name": "Anna Visconti",
+    "email": "anna.visconti@company.com",
+    "location": "Rome, IT",
+    "flag": "🇮🇹",
+    "status": "Active",
+    "balance": 0,
+    "department": "Marketing"
+  },
+  {
+    "id": "12",
+    "name": "David Kim",
+    "email": "d.kim@company.com",
+    "location": "Paris, FR",
+    "flag": "🇫🇷",
+    "status": "Active",
+    "balance": 890,
+    "department": "Sales"
+  },
+  {
+    "id": "13",
+    "name": "Lucia Sorna",
+    "email": "lucia.sorna@company.com",
+    "location": "Copenhagen, DK",
+    "flag": "🇩🇰",
+    "status": "Inactive",
+    "balance": 1890,
+    "department": "Finance"
+  },
+  {
+    "id": "14",
+    "name": "Samuel Carteron",
+    "email": "sa.carteron@company.com",
+    "location": "San Francisco, US",
+    "flag": "🇺🇸",
+    "status": "Inactive",
+    "balance": 1250,
+    "department": "Engineering"
+  },
+  {
+    "id": "15",
+    "name": "Alex Allan",
+    "email": "alex.allan@company.com",
+    "location": "São Paulo, BR",
+    "flag": "🇧🇷",
+    "status": "Active",
+    "balance": 2100,
+    "department": "Sales"
+  },
+  {
+    "id": "16",
+    "name": "Olivia Brown",
+    "email": "o.brown@company.com",
+    "location": "Sydney, AU",
+    "flag": "🇦🇺",
+    "status": "Active",
+    "balance": 1600,
+    "department": "Marketing"
+  },
+  {
+    "id": "17",
+    "name": "Hiroshi Yamamoto",
+    "email": "h.yamamoto@company.com",
+    "location": "Osaka, JP",
+    "flag": "🇯🇵",
+    "status": "Active",
+    "balance": 2200,
+    "department": "Engineering"
+  },
+  {
+    "id": "18",
+    "name": "Sophie Dubois",
+    "email": "s.dubois@company.com",
+    "location": "Montreal, CA",
+    "flag": "🇨🇦",
+    "status": "Inactive",
+    "balance": 950,
+    "department": "HR"
+  },
+  {
+    "id": "19",
+    "name": "Diego Mendoza",
+    "email": "d.mendoza@company.com",
+    "location": "Mexico City, MX",
+    "flag": "🇲🇽",
+    "status": "Active",
+    "balance": 1800,
+    "department": "Sales"
+  },
+  {
+    "id": "20",
+    "name": "Lena Müller",
+    "email": "l.mueller@company.com",
+    "location": "Vienna, AT",
+    "flag": "🇦🇹",
+    "status": "Active",
+    "balance": 1350,
+    "department": "Marketing"
+  },
+  {
+    "id": "21",
+    "name": "Raj Patel",
+    "email": "r.patel@company.com",
+    "location": "Mumbai, IN",
+    "flag": "🇮🇳",
+    "status": "Active",
+    "balance": 2500,
+    "department": "Engineering"
+  },
+  {
+    "id": "22",
+    "name": "Astrid Andersen",
+    "email": "a.andersen@company.com",
+    "location": "Oslo, NO",
+    "flag": "🇳🇴",
+    "status": "Inactive",
+    "balance": 1100,
+    "department": "Finance"
+  },
+  {
+    "id": "23",
+    "name": "Fatima Al-Sayed",
+    "email": "f.alsayed@company.com",
+    "location": "Cairo, EG",
+    "flag": "🇪🇬",
+    "status": "Active",
+    "balance": 1950,
+    "department": "Sales"
+  },
+  {
+    "id": "24",
+    "name": "Javier Fernández",
+    "email": "j.fernandez@company.com",
+    "location": "Buenos Aires, AR",
+    "flag": "🇦🇷",
+    "status": "Active",
+    "balance": 1700,
+    "department": "Marketing"
+  },
+  {
+    "id": "25",
+    "name": "Zoe Williams",
+    "email": "z.williams@company.com",
+    "location": "Auckland, NZ",
+    "flag": "🇳🇿",
+    "status": "Active",
+    "balance": 2300,
+    "department": "Engineering"
+  },
+  {
+    "id": "26",
+    "name": "Nikolai Petrov",
+    "email": "n.petrov@company.com",
+    "location": "Moscow, RU",
+    "flag": "🇷🇺",
+    "status": "Active",
+    "balance": 3100,
+    "department": "Sales"
+  },
+  {
+    "id": "27",
+    "name": "Isabella Rossi",
+    "email": "i.rossi@company.com",
+    "location": "Milan, IT",
+    "flag": "🇮🇹",
+    "status": "Inactive",
+    "balance": 1850,
+    "department": "Finance"
+  },
+  {
+    "id": "28",
+    "name": "Cheng Wei",
+    "email": "c.wei@company.com",
+    "location": "Shanghai, CN",
+    "flag": "🇨🇳",
+    "status": "Active",
+    "balance": 2700,
+    "department": "Engineering"
+  },
+  {
+    "id": "29",
+    "name": "Licia Patel",
+    "email": "l.patel@company.com",
+    "location": "Nairobi, KE",
+    "flag": "🇰🇪",
+    "status": "Active",
+    "balance": 1400,
+    "department": "Sales"
+  },
+  {
+    "id": "30",
+    "name": "Mateo Gonzalez",
+    "email": "m.gonzalez@company.com",
+    "location": "Bogotá, CO",
+    "flag": "🇨🇴",
+    "status": "Active",
+    "balance": 2050,
+    "department": "Marketing"
+  }
+]
