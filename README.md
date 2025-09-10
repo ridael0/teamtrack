@@ -14,7 +14,7 @@ Built with **React 19** (frontend) and **Express 5** (backend) with **MongoDB**,
 
 ## 📂 Project Structure
 ```
-📦 PRODIGY_FS_02
+📦 teamtrack
 ├── 📂 frontend # React.js client application
 │ ├── 📂 public # Public assets
 │ ├── 📂 src # React source files
@@ -98,8 +98,8 @@ mongoose ^8.16.4
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/ridael0/PRODIGY_FS_02.git
-cd PRODIGY_FS_02
+git clone https://github.com/ridael0/teamtrack.git
+cd teamtrack
 ```
 ### 2️⃣ Install backend dependencies
 ```bash
